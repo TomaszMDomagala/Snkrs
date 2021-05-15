@@ -1,0 +1,20 @@
+{
+  "name": "snkrs",
+  "version": "1.0.0",
+  "description": "Script for trying to drop sneakers on nike snkrs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-schedule": "^2.0.0",
+    "puppeteer": "^9.1.1",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "uuid": "^8.3.2"
+  },
+  "type": "module"
+}
